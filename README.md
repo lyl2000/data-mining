@@ -1,4 +1,4 @@
-# data-mining
+# Data Mining Dataset
 ## 互评作业 1
 - [Alzheimer Disease and Healthy Aging Data in US](https://www.kaggle.com/datasets/ananthu19/alzheimer-disease-and-healthy-aging-data-in-us)
 
