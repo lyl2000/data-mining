@@ -26,3 +26,9 @@
         - runtime: in minutes
         - director: director's name
         - writer: list of all the writers
+## 互评作业 2
+- [UCI ML Repository - Anonymous Microsoft Web Data](http://archive.ics.uci.edu/ml/datasets/Anonymous+Microsoft+Web+Data)
+
+    - We created the data by sampling and processing the www.microsoft.com logs. The data records the use of www.microsoft.com by 38000 anonymous, randomly-selected users. For each user, the data lists all the areas of the web site (Vroots) that user visited in a one week timeframe.
+
+    - Users are identified only by a sequential number, for example, User #14988, User #14989, etc. The file contains no personally identifiable information. The 294 Vroots are identified by their title (e.g. "NetShow for PowerPoint") and URL (e.g. "/stream"). The data comes from one week in February, 1998.
