@@ -1,5 +1,7 @@
 # Data Mining Dataset
+
 ## 互评作业 1
+
 - [Alzheimer Disease and Healthy Aging Data in US](https://www.kaggle.com/datasets/ananthu19/alzheimer-disease-and-healthy-aging-data-in-us)
 
     - The Alzheimer's Disease and Healthy Aging Data in the US dataset is a comprehensive collection of data on the health and well-being of older Americans. The dataset includes information on a wide range of variables, such as demographic characteristics, health conditions, healthcare utilization, and health behaviors.
@@ -26,9 +28,19 @@
         - runtime: in minutes
         - director: director's name
         - writer: list of all the writers
+
 ## 互评作业 2
+
 - [UCI ML Repository - Anonymous Microsoft Web Data](http://archive.ics.uci.edu/ml/datasets/Anonymous+Microsoft+Web+Data)
 
     - We created the data by sampling and processing the www.microsoft.com logs. The data records the use of www.microsoft.com by 38000 anonymous, randomly-selected users. For each user, the data lists all the areas of the web site (Vroots) that user visited in a one week timeframe.
 
     - Users are identified only by a sequential number, for example, User #14988, User #14989, etc. The file contains no personally identifiable information. The 294 Vroots are identified by their title (e.g. "NetShow for PowerPoint") and URL (e.g. "/stream"). The data comes from one week in February, 1998.
+
+## 互评作业 3
+
+- [MNIST](http://yann.lecun.com/exdb/mnist/)
+    
+    - The MNIST database of handwritten digits, available from this page, has a training set of 60,000 examples, and a test set of 10,000 examples. It is a subset of a larger set available from NIST. The digits have been size-normalized and centered in a fixed-size image.
+    
+    - It is a good database for people who want to try learning techniques and pattern recognition methods on real-world data while spending minimal efforts on preprocessing and formatting.
